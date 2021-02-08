@@ -1,0 +1,6 @@
+{
+  "/api": {
+    "target": "http://backend:4444",
+    "secure": false
+  }
+}
